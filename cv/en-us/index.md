@@ -2,27 +2,34 @@
 
 # Curriculum Vitae
 
-*current* = Sep 2022.
+*current* = Oct 2025.
 
 ## Summary
 
-A thoughtful software engineer who pursue comfortable communication but does not overcompromise on quality. It past 5 years and so forth since I became a paid regular.
+A thoughtful software engineer with 8 years of work experience (as a paid regular), pursuing nice communication while not overcompromising on quality.
 
-### Skills
+### Languages
 
-- Version control and continuous integration: Git, GitHub, Jenkins.
-- Using OS, virt and orch: Linux, Docker, Kubernetes.
+- Korean: Native
+- English: Advanced \[C1\*\] reading/writing; Conversational \[B1\] speaking (independent travel and daily communication)
+- Japanese: Elementary \[A1\] (basic conversation)
+
+\* self-assessed.
+
+### Skills (of 3+ years each, at least)
+
 - Java &amp; Kotlin/JVM. Build with Java toolchains, Finetuning JVM runtime, Cost-efficient module runtime planning with measures, such as memory prediction and tracing in OpenJDK HotSpot (metaspace, heap).
-- Android application programming. Works on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, RxJava.
-- Web microbackend programming with Spring Boot.
-- Designing modern web APIs, Node.js, React web frontend programming.
+- Android application programming. Working on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, functional reactive programming using RxJava+RxKotlin, Kotlin Flow &amp; Coroutines.
+- Version control and continuous integration: Git, GitHub (Actions), Jenkins, TeamCity.
+- Using OS, virt and orch: Linux, Docker, Kubernetes.
+- Web microbackend programming with Spring Boot in WebMVC; Designing modern web APIs (HTTP); React web frontend programming, using Node.js libraries such as Axios.
 - Deployment and configuration management, with load balancers or routers (L4 / L7).
-- Functional reactive programming with ReactiveX.
-- Programming languages: C, Python, Bash.
-- Build systems: Ant, Maven, Gradle, CMake.
+- Other languages: C, Python, Bash.
+- Build systems: Ant, Maven, Gradle, CMake/CPack.
 
 ### Interests (with small work experience)
 
+- Mobile: iOS apps with Swift, Dart/Flutter 기반 멀티플랫폼 앱.
 - Programming languages: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity (game engine), C# scripting.
 - OpenGL Shading Language.
@@ -34,8 +41,8 @@ A thoughtful software engineer who pursue comfortable communication but does not
 
 ## Professional History
 
-**Service Engineer,** Sep 2017 – *current*; *currently* 5 <sup>2</sup>/<sub>12</sub> yrs.<br />
-Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
+**Services Software Engineer (DevOps),** Sep 2017 – *current*; *currently* 8 <sup>1</sup>/<sub>12</sub> yrs.<br />Clova ([🔗](<https://clova.ai/ko>)), **Naver Cloud Corp.,** Rep. of Korea.<br />
+Clova, **Naver Corp.,** Rep. of Korea.
 
 ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
@@ -46,7 +53,7 @@ Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 - (2017) Rewriting device initialization in Clova mobile app while its total revision days. (lines on Android client, configuration <u>currently</u> maintained also)
 - (2017) Writing most of early Clova mobile app functionalities around Clova platform devices integration. (lines on Android client, debugging servers and devices)
 
-**Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.<br />
+**Services Software Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.<br />
 SmartEditor ([🔗](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ SmartEditor is a series of rich text editor component commonly used in web &amp; mobile services from Naver.

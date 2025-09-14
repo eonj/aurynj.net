@@ -2,27 +2,34 @@
 
 # 이력서
 
-<u>현재</u> = 2022 년 11 월.
+<u>현재</u> = 2025 년 10 월.
 
 ## 요약
 
-회사에 다닌지 5 년 된 생각 많은 소프트웨어 엔지니어입니다. 편안한 커뮤니케이션을 추구하며 일을 잘 하려는 마음도 놓치지 않으려 합니다.
+직장 생활 8 년 경력의 생각 많은 소프트웨어 엔지니어입니다. 좋은 커뮤니케이션을 추구하며 일을 잘 하려는 마음도 놓치지 않으려 합니다.
 
-### 보유 기술
+### 언어
 
-- L4 / L7 LBR 을 활용하는 규모가변 배포 및 형상관리.
-- 운영체제, 가상화, 오케스트레이션 사용: Linux, Docker, Kubernetes.
+- 한국어: 모국어
+- 영어: 읽기/쓰기 고급 \[C1\*\] + 회화 중급 \[B1\] (단독 여행 및 일상 소통 수준)
+- 일본어: 초급 \[A1\] (기초 회화)
+
+\* 본인 평가
+
+### 보유 기술 (각각 3년 이상 수준)
+
 - Java 와 Kotlin/JVM. Java 빌드 툴체인 사용, JVM 런타임 튜닝, 네이티브 디버깅 등을 포괄적으로 수행할 수 있음. OpenJDK HotSpot 환경에서 모듈의 메모리 사용을 예측, 실시간 측정해 비용효율적인 런타임 계획을 수립할 수 있음.
-- Android 앱 프로그래밍. Android 플랫폼, Android SDK, AndroidX 에서 작업. Retrofit, Moshi, Glide, ThreeTenABP, RxJava 에 익숙함.
-- Spring Boot 기반 웹 마이크로백엔드 프로그래밍.
-- 모던 웹 API 설계, Node.js, React 웹 프론트엔드 프로그래밍.
-- 함수형 반작용적 프로그래밍 (FRP): ReactiveX.
-- 프로그래밍 언어: C, Python, Bash.
-- 빌드 시스템: Ant, Maven, Gradle, CMake.
-- 버전 컨트롤과 CI: Git, GitHub, Jenkins.
+- Android 앱 프로그래밍. Android 플랫폼, Android SDK, AndroidX 기반 작업. Retrofit, Moshi, Glide, ThreeTenABP, RxJava+RxKotlin 기반의 함수형 반작용적 프로그래밍 (FRP), Kotlin Flow &amp; Coroutines.
+- 버전 컨트롤과 CI: Git, GitHub (Actions), Jenkins, TeamCity.
+- 운영체제, 가상화, 오케스트레이션 사용: Linux, Docker, Kubernetes.
+- Spring Boot 기반 WebMVC 웹 마이크로백엔드 프로그래밍; 모던 웹 API (HTTP) 설계; React 웹 프론트엔드 프로그래밍, Node.js 라이브러리 사: Axios 등.
+- L4 / L7 LBR 을 활용하는 규모가변 배포 및 형상관리.
+- 그 외 언어: C, Python, Bash.
+- 빌드 시스템: Ant, Maven, Gradle, CMake/CPack.
 
 ### 관심 분야 (약간의 업무 경험 있음)
 
+- 모바일: Swift 기반 iOS 앱, Dart/Flutter 기반 멀티플랫폼 앱.
 - 프로그래밍 언어: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity 게임 엔진, C# 스크립팅.
 - OpenGL Shading Language (GLSL).
@@ -34,8 +41,8 @@
 
 ## 직업 경력
 
-**서비스 엔지니어 (“개발 직군”).** 2017 년 9 월 – <u>현재</u> (<u>현재</u> 기준 5 <sup>2</sup>/<sub>12</sub> 년).<br />
-**네이버.** 클로바. ([🔗](<https://clova.ai/ko>))
+**서비스 엔지니어 (“개발 직군”).** 2017 년 9 월 – <u>현재</u> (<u>현재</u> 기준 8 <sup>1</sup>/<sub>12</sub> 년).<br />**네이버클라우드.** 클로바. ([🔗](<https://clova.ai/ko>)) 2023 년 1 월 – <u>현재</u>.<br />
+**네이버.** 클로바. 2017 년 9 월 – 2022 년 12 월.
 
 - (2020–<u>현재</u>) 클로바 앱 (Android, iOS) 클라이언트를 위한 API 서버, 푸시 알림 서버, 서비스 운영을 위한 웹 기반 도구 등을 관리하고 있습니다.
 - (2019–<u>현재</u>) 클로바 앱 (Android, iOS) 클라이언트의 기능 명세를 작성하고, 클라이언트의 기능 구성을 서버에서 운영 및 지속적 통합/유통 (CI/CD) 하는 시스템을 개발하고 있습니다.
