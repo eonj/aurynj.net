@@ -16,20 +16,20 @@ A thoughtful software engineer with 8 years of work experience (as a paid regula
 
 \* self-assessed.
 
-### Skills (of 3+ years each, at least)
+### Skills (of 3<sup>+</sup>–8 years each, at least)
 
 - Java &amp; Kotlin/JVM. Build with Java toolchains, Finetuning JVM runtime, Cost-efficient module runtime planning with measures, such as memory prediction and tracing in OpenJDK HotSpot (metaspace, heap).
 - Android application programming. Working on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, functional reactive programming using RxJava+RxKotlin, Kotlin Flow &amp; Coroutines.
 - Version control and continuous integration: Git, GitHub (Actions), Jenkins, TeamCity.
 - Using OS, virt and orch: Linux, Docker, Kubernetes.
-- Web microbackend programming with Spring Boot in WebMVC; Designing modern web APIs (HTTP); React web frontend programming, using Node.js libraries such as Axios.
+- Web microbackend programming with Spring Boot in WebMVC; Designing modern web APIs (HTTP); React web frontend programming, using Node.js libraries such as Axios, TanStack Query, Redux, MUI.
 - Deployment and configuration management, with load balancers or routers (L4 / L7).
 - Other languages: C, Python, Bash.
 - Build systems: Ant, Maven, Gradle, CMake/CPack.
 
-### Interests (with small work experience)
+### Interests (with work experience)
 
-- Mobile: iOS apps with Swift, Dart/Flutter 기반 멀티플랫폼 앱.
+- Mobile: iOS apps with Swift, multiplatform apps with Dart/Flutter.
 - Programming languages: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity (game engine), C# scripting.
 - OpenGL Shading Language.
@@ -108,7 +108,7 @@ per the legal 7th revised educational curriculum, enactment 1999.<br />
 In “selective 2” years, natural sciences track, Mar 2009 – do.<br />
 In “basic 10” years, Mar 1999 – Feb 2009.
 
-## Contest & Conference
+## Contests, Events, Conferences & Presentation
 
 **2021**
 
@@ -119,6 +119,12 @@ In “basic 10” years, Mar 1999 – Feb 2009.
 > "CLOVA App" is the sole GUI for enduser of "CLOVA", our voice-oriented virtual assistant service, which accordingly provides essential controls and scope of management. Can you guess what turns to be the major problem of an app client, when it should be all aware of other speaker clients and skill microservices—because the service platform is basically the mediator between them?
 >
 > We introduce some internals–how a mini server-side engineering topic is eventually extended from a person, who are actually an Android programmer. The material contains 2 years of trials (also errors,) that is composed of half a year of working prototypes; another of pratical substantiation including UX+QA topics; and the production use of a year and going on. We wish this could bring you some nit tips and empathy as a developer, like you, like a salmon tracing up the river living in fast-fast world of service softwares.
+
+**2016**
+
+ℹ️ Pangyo: a tech valley region near Seoul, KR.
+
+Organizing member of GGG Game Jam 2016, collegiates' independent (sponsored) 48-hour gamemaking “jam” event in Pangyo. (Report [🔗](<https://github.com/eonj/GGGGJ2016-Report>))
 
 **2011**
 
