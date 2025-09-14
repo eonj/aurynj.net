@@ -132,6 +132,8 @@ Organizing member of GGG Game Jam 2016, collegiates' independent (sponsored) 48-
 
 ## Research &amp; Publication
 
+Mostly writing on web.
+
 **2017**
 
 Hyuk Lee, **Eon Jeong**, Jin-Young Choi. Schedulability analysis with Constraint Satisfaction Problem approach. Proceedings of KSC 2019, 2017. 12., 1611–1613. (DBpia [🔗](<https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322582>))
