@@ -11,7 +11,7 @@ This is homepage of Eon Jeong. (Jeong is my surname)
 
 ## External links
 
-* [📝 **A4**](https://a4.aurynj.net/)
+* [📝 **A4** (Tumblr)](https://eonj.tumblr.com/)
 * [📝 **W2**](https://w2.aurynj.net/confluence)
 * [📝 **trouble.log**](https://eonj.github.io/trouble.log/)
 * [(GitHub) eonj](<https://github.com/eonj>)
