@@ -106,8 +106,7 @@ In undergraduate school, May 2011 – do.; includes 2 yrs off from school in 201
 **Completion of the National Common Curriculum of Rep. of Korea,** Feb 2011.<br />
 per the legal 7th revised educational curriculum, enactment 1999.<br />
 In “selective 2” years, natural sciences track, Mar 2009 – do.<br />
-In “basic 10” years, Mar 1999 – Feb 2009.<br />
-Wansan High School, Rep. of Korea, Mar 2008 – do.
+In “basic 10” years, Mar 1999 – Feb 2009.
 
 ## Contest & Conference
 
