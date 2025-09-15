@@ -12,13 +12,13 @@ A thoughtful software engineer with 8 years of work experience (as a paid regula
 
 - Korean: Native
 - English: Advanced \[C1\*\] reading/writing; Conversational \[B1\] speaking (independent travel and daily communication)
-- Japanese: Elementary \[A1\] (basic conversation)
+- Japanese: Elementary \[A1A1\] (basic conversation)
 
 \* self-assessed.
 
 ### Skills (of 3<sup>+</sup>–8 years each, at least)
 
-- Java &amp; Kotlin/JVM. Build with Java toolchains, Finetuning JVM runtime, Cost-efficient module runtime planning with measures, such as memory prediction and tracing in OpenJDK HotSpot (metaspace, heap).
+- Java &amp; Kotlin/JVM. Build with Java toolchains; Finetuning JVM runtime; Cost-efficient module runtime planning, such as memory usage prediction and profiling, over OpenJDK HotSpot runtime.
 - Android application programming. Working on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, functional reactive programming using RxJava+RxKotlin, Kotlin Flow &amp; Coroutines.
 - Version control and continuous integration: Git, GitHub (Actions), Jenkins, TeamCity.
 - Using OS, virt and orch: Linux, Docker, Kubernetes.
@@ -29,7 +29,7 @@ A thoughtful software engineer with 8 years of work experience (as a paid regula
 
 ### Interests (with work experience)
 
-- Mobile: iOS apps with Swift, multiplatform apps with Dart/Flutter.
+- Mobile: iOS apps with Swift, multiplatform apps with Dart/Flutter, mobile apps with React Native.
 - Programming languages: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity (game engine), C# scripting.
 - OpenGL Shading Language.

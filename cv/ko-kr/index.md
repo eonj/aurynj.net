@@ -18,7 +18,7 @@
 
 ### 보유 기술 (각각 3 년 이상 – 8 년 수준)
 
-- Java 와 Kotlin/JVM. Java 빌드 툴체인 사용, JVM 런타임 튜닝, 네이티브 디버깅 등을 포괄적으로 수행할 수 있음. OpenJDK HotSpot 환경에서 모듈의 메모리 사용을 예측, 실시간 측정해 비용효율적인 런타임 계획을 수립할 수 있음.
+- Java 와 Kotlin/JVM. Java 빌드 툴체인 사용, JVM 런타임 튜닝, 네이티브 디버깅 등을 포괄적으로 수행할 수 있음. OpenJDK HotSpot 환경에서 모듈의 메모리 사용을 예측, 측정해 비용효율적인 런타임 계획을 수립할 수 있음.
 - Android 앱 프로그래밍. Android 플랫폼, Android SDK, AndroidX 기반 작업. Retrofit, Moshi, Glide, ThreeTenABP, RxJava+RxKotlin 기반의 함수형 반작용적 프로그래밍 (FRP), Kotlin Flow &amp; Coroutines.
 - 버전 컨트롤과 CI: Git, GitHub (Actions), Jenkins, TeamCity.
 - 운영체제, 가상화, 오케스트레이션 사용: Linux, Docker, Kubernetes.
@@ -29,7 +29,7 @@
 
 ### 관심 분야 (업무 경험 있음)
 
-- 모바일: Swift 기반 iOS 앱, Dart/Flutter 기반 멀티플랫폼 앱.
+- 모바일: Swift 기반 iOS 앱, Dart/Flutter 기반 멀티플랫폼 앱, React Native 모바일 앱.
 - 프로그래밍 언어: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity 게임 엔진, C# 스크립팅.
 - OpenGL Shading Language (GLSL).
